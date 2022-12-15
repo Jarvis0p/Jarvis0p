@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Ethical Hacker
+- :smiling_imp: Ethical Hacker
 - 🌱 Bug Bounty
 - 👯 Penetration Testing
 - 🤔 tryhackme
