@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 - :smiling_imp: Ethical Hacker
-- 🌱 Bug Bounty
-- 👯 Penetration Testing
-- 🤔 tryhackme
+- :smiling_imp: Bug Bounty
+- :smiling_imp: Penetration Testing
+- :smiling_imp: tryhackme
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
